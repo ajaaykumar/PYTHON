@@ -11,4 +11,29 @@
 
 
 
+# what is the best way to loop an list without using for loop
+my_list = [1, 2, 3, 4, 5]
+# create an iterator object
+iterator = iter(my_list)
+
+# use the iterator in a while loop
+while True:
+    try:
+        # get the next item from the iterator
+        item = next(iterator)
+        print(item)
+    except StopIteration:
+        # exit the loop when the iterator is exhausted
+        break
+
+
+
+
+
+
+
+
+
+
+
 
