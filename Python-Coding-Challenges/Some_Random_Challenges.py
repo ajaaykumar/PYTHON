@@ -27,7 +27,17 @@ while True:
         break
 
 
+# Convert intiger to string using mathematical equation
+def intTostr(s):
+  digits = '0123456789'
+  result = ''
+  if s == 0:
+    result = '0'
+  while s > 0:
+    result = digits[s%10] + result
+    s = s//10
 
+  return result
 
 
 
