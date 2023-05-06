@@ -1,0 +1,28 @@
+id,first_name,last_name,gender,age,phone_number,address,diagnosis
+1,Ava,Smith,Female,36,(123) 456-7890,123 Main St,Arthritis
+2,Noah,Johnson,Male,44,(234) 567-8901,456 Elm St,Hypertension
+3,Olivia,Brown,Female,29,(345) 678-9012,789 Maple St,Diabetes
+4,Liam,Taylor,Male,56,(456) 789-0123,987 Oak St,Cancer
+5,Emma,Anderson,Female,42,(567) 890-1234,654 Pine St,Alzheimer's
+6,William,Clark,Male,38,(678) 901-2345,321 Cedar St,Depression
+7,Sophia,Rodriguez,Female,49,(789) 012-3456,456 Birch St,Anxiety
+8,Henry,Garcia,Male,27,(890) 123-4567,789 Walnut St,Heart Disease
+9,Isabella,Martinez,Female,63,(901) 234-5678,123 Oak St,Osteoporosis
+10,James,Robinson,Male,31,(012) 345-6789,456 Pine St,Migraine
+11,Emily,Lopez,Female,54,(123) 456-7890,789 Cedar St,Arthritis
+12,Benjamin,Perez,Male,48,(234) 567-8901,654 Maple St,Hypertension
+13,Madison,Williams,Female,23,(345) 678-9012,321 Elm St,Diabetes
+14,Mason,Jackson,Male,39,(456) 789-0123,456 Birch St,Cancer
+15,Elizabeth,Miller,Female,47,(567) 890-1234,789 Walnut St,Alzheimer's
+16,Ethan,Martin,Male,51,(678) 901-2345,123 Oak St,Depression
+17,Chloe,Lee,Female,26,(789) 012-3456,456 Pine St,Anxiety
+18,Alexander,Gonzalez,Male,35,(890) 123-4567,789 Cedar St,Heart Disease
+19,Mia,Nelson,Female,58,(901) 234-5678,654 Maple St,Osteoporosis
+20,Daniel,Cooper,Male,43,(012) 345-6789,321 Elm St,Migraine
+21,Ella,Young,Female,40,(123) 456-7890,456 Birch St,Arthritis
+22,Michael,Hernandez,Male,22,(234) 567-8901,789 Walnut St,Hypertension
+23,Avery,King,Female,37,(345) 678-9012,123 Oak St,Diabetes
+24,Matthew,Wright,Male,57,(456) 789-0123,456 Pine St,Cancer
+25,Sofia,Lopez,Female,28,(567) 890-1234,789 Cedar St,Alzheimer's
+26,Lucas,Adams,Male,33,(678) 901-2345,654 Maple St,Depression
+27,Aria,Parker,Female,45,(789) 012-3456,321 Elm St,Anxiety
