@@ -6,16 +6,31 @@ https://medium.com/@euniceadewusic/python3-exploring-the-power-of-mutable-and-im
 #  type conversion
 integer_number = 123
 float_number = 1.23
-
 new_num = integer_number + float_number
+# print(new_num)
 
-print(new_num)
 
 num_string = '12'
 num_integer = 23
-
 new_sum = int(num_string) + num_integer
-print(new_sum)
+# print(new_sum)
+
+# print("*********Float*********")
+# print(float.__doc__) 
+# print("*********Integer*********")
+# print(int.__doc__)
+# print("*********String*********")
+# print(str.__doc__) 
+
+
+# print(str(3.14))
+# print(str(3))
+# print(str([1,2,3]))
+# print(str((1,2,3)))
+# print(str({1,2,3}))
+# print(str({'python': '*.py', 'javascript': '*.js'}))
+
+
 
 """
 - ID and Type:
@@ -37,9 +52,6 @@ such as appending an element to a list, the object itself is changed, but its ID
 """
 
 
-
-
-
 # Immutable Data Types
 """
 Immutable objects, as the name suggests, cannot be altered after creation. 
@@ -55,6 +67,18 @@ remains unchanged.
 - Tuples
 - Frozen sets
 """
+
+
+
+l = ['python', 3, 'in', 'one']
+print(type(l)) 
+
+## Slicing
+print(l[0])         # 'python'
+print(l[-1])        # 'one'
+print(l[1:-1])      # [3, 'in']
+
+
 
 
 
