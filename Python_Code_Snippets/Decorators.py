@@ -1,3 +1,18 @@
+"""Decorators are the function which are wrapped around your existing function """
+
+def my_decorator(func):
+    def wrapper():
+        print("Do a thing before")
+        func()
+        print("Do a thing after")
+    return wrapper
+
+@my_decorator
+def greeting():
+    print("HELLO WORLD!")
+
+# greeting()
+
 
 def debug(func):
     def wrapper(*args,**kwargs):
@@ -31,7 +46,9 @@ def trace(func):
 def compute_area(length,width):
     return length*width
 
-area = compute_area(3.0, 4.5)
-print(area)
+# area = compute_area(3.0, 4.5)
+# print(area)
+
+
 
 
