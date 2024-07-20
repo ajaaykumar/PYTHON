@@ -9,8 +9,6 @@
 
 
 
-
-
 # what is the best way to loop an list without using for loop
 my_list = [1, 2, 3, 4, 5]
 # create an iterator object
