@@ -9,7 +9,7 @@
 ## 2. What is PEP 8?
 - PEP 8 is a coding convention, a set of recommendation, about how to write your Python code more readable.
 
-## 3. What is timmer method in Python?
+## 3. What is the timer method in Python?
 - Timer is a method available with Threading, and it helps to get the same functionality as Python time sleep.
 
 ```python 
@@ -24,7 +24,7 @@ t = Timer(5, display)
 t.start()
 ```
 
-## 4. what is Method overloading and overriding in Python?
+## 4. What is Method overloading and overriding in Python?
 - ### [ Method overloading and overridden](https://www.pickl.ai/blog/method-overriding-method-overloading-in-python/#:~:text=Note%20that%20method%20overloading%20is,previous%20ones%20will%20be%20overridden).
 
 
