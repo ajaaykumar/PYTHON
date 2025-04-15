@@ -72,6 +72,7 @@
     </details>
 
 ## 4. Different Types of Sorting
+
 ### Selection Sort
 1. Implement Selection Sort
 
@@ -163,3 +164,24 @@
     ```
     👉 Focus: Helps in debugging and understanding how the sort behaves at each step.
 
+
+### Bubble Sort
+
+1. Basic Bubble Sort (Ascending Order)
+
+    **Problem:**
+    Given an unsorted array of integers, sort it using the Bubble Sort algorithm.
+
+    **Input:**
+    ``` arr = [5, 3, 8, 4, 2] ```
+
+    **Output:**
+    ``` [2, 3, 4, 5, 8] ```
+
+### Insertion Sort
+
+
+
+
+
+    
