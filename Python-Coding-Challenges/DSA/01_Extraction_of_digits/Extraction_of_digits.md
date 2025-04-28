@@ -179,8 +179,23 @@
     ``` [2, 3, 4, 5, 8] ```
 
 ### Insertion Sort
+-
+
+### Merge Sort
+-
+
+### Quick Sort
+-
 
 
+## 5. Problems on Arrays /List
+
+### Easy Level Problems
+- Find the Largest Element in an Array.
+- Find the Second Largest Element in an Array Without Sorting.
+- Check if the array is sorted.
+- Remove Duplicates from a Sorted Array [In-place].
+ 
 
 
 
